@@ -1,6 +1,3 @@
-//Course overview
-//Course introduction
-
 //Course outline
 /*
     At the end of the course, you will be able to:
@@ -16,13 +13,17 @@
     Module 4: SimpleSchemas, autoform and code re-organisation
 */
 
+//Web Application Development with Javascript and MongoDB: Course overview
+
+
+//Course overview
+//Course introduction
+
+//Course outline
+
 //Grading and assessment information
 
 //Prerequisite quiz
 
 
-//Introduction
-//Overview
-
-//Starter code
-
+//MongoDB, Meteor, reactive data
