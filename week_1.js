@@ -49,4 +49,11 @@
 //Boostrap it!
 
 
+//HTML preview
+
+
+//MongoDB, Meteor and reactive data summary
+
+//M-Instant part !: working with Session
+
 
