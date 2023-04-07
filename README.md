@@ -9,7 +9,7 @@
 LLAMIDO, RYAN B.
 
 # Project Status
-Complete(Week-1) - 04/03/<br>
+Complete(Week-1) - 04/03/2023<br>
 Complete(Week-2) - 04/05/2023<br>
-Ongoing(Week-3) - 04/05/2023<br>
-(Week-4) - 04//2023<br>
+Complete(Week-3) - 04/06/2023<br>
+Complete(Week-4) - 04/07/2023<br>
